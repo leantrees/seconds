@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 秒获客 – 百万保险展业代理人的文章库
+秒获客 是一款服务于保险展业代理人的app，提供丰富的保险展业文章，让工作更便捷高效，签单快人一步。
 
-You can use the [editor on GitHub](https://github.com/leantrees/seconds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 理念
+轻松阅读行业新资讯、随时随地分享海量保险理念，传播专业保险代理人形象，快速Get保险展业新技能，让展业更专业！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leantrees/seconds/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 优势
+1	实时提供优质内容；
+2	及时推送文章查看者
